@@ -1,14 +1,14 @@
 ---
 layout: home
 ---
-## (AI2000/AI5000) Foundations of Machine Learning Course Contents
+## (AI1000) Matrix Theory Course Contents
 
-Welcome to the Foundations on Machine Learning (FoML) course! In this course, you will explore the foundational concepts and techniques behind machine learning, a key driver of modern artificial intelligence. Students will explore key concepts in supervised and unsupervised learning, probability theory, and neural networks, with a strong emphasis on the probabilistic and Bayesian approaches prevalent in modern machine learning. The course integrates mathematical concpets with hands-on programming experience, covering topics like linear models, kernel methods, and clustering techniques. By the end of the semester, students will be equipped with a deep understanding of machine learning principles and practical skills for data analysis and modeling.
+Coming soon!
 
 ## Logistics
 
-**Class Room**: LHC-13
+**Class Room**: TBA
 
-**Timings**: Slot-C
+**Timings**: Slot-D
 
-Visit this page regularly for the updates and information regarding the course.<br>
+Visit this page regularly for updates and information regarding the course.<br>
