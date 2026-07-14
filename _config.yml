@@ -1,12 +1,12 @@
 # Site settings
-course_name: Foundations of Machine Learning
+course_name: Matrix Theory
 course_description: "Machine Learning has lately become the driving force behind numerous high-performing AI products deployed in
 real-world across diverse disciplines. Tech giants such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
 the Machine Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
 Hence, it has recently become one of the most sought-after learning courses."
-course_semester: "Jul-Nov 2025"
+course_semester: "Jul-Nov 2026"
 
-baseurl: "/foml25" # the subpath of your site, e.g. /blog/
+baseurl: "/ml26" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"
