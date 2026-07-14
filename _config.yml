@@ -6,7 +6,7 @@ the Machine Learning workforce in the past few years for developing various appl
 Hence, it has recently become one of the most sought-after learning courses."
 course_semester: "Jul-Nov 2026"
 
-baseurl: "/ml26" # the subpath of your site, e.g. /blog/
+baseurl: "/mt26" # the subpath of your site, e.g. /blog/
 url: "http://krmopuri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Dept. of AI, IITH"
