@@ -1,9 +1,12 @@
 # Site settings
 course_name: Matrix Theory
-course_description: "Machine Learning has lately become the driving force behind numerous high-performing AI products deployed in
-real-world across diverse disciplines. Tech giants such as Google, Microsoft, Facebook, Amazon, etc. have strongly been employing 
-the Machine Learning workforce in the past few years for developing various applications in Computer Vision, Natural Processing, etc.
-Hence, it has recently become one of the most sought-after learning courses."
+course_description: "This course develops a rigorous and intuitive understanding of linear algebra, emphasizing both mathematical 
+foundations and applications in artificial intelligence. Students will study vectors, matrices, linear transformations, subspaces, 
+orthogonality, eigenvalues, and matrix factorizations through geometric, algebraic, and computational viewpoints. The course will 
+connect theory with machine learning, data analysis, optimization, signal processing, and representation learning. Particular 
+attention will be given to reasoning, proof, problem formulation, and the interpretation of high-dimensional spaces. By the end of 
+the course, students should be able to analyze linear systems, understand the structure of linear operators, and apply linear algebra 
+confidently to modern AI problems."
 course_semester: "Jul-Nov 2026"
 
 baseurl: "/mt26" # the subpath of your site, e.g. /blog/
