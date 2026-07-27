@@ -6,11 +6,9 @@ permalink: /materials/
 
 <!--- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %} -->
 
-## Deep Learning
+## Matrix Theory
 
-- [Deep Learning textbook by Ian Goodfellow et al.](https://www.deeplearningbook.org/)
-- [NPTEL course by Prof. Mitesh Khapra, IITM](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ1r-2XrJ_GBzzS6I-f8yfRU)
-- [Michael Nielsen's text book on NN & DL](http://neuralnetworksanddeeplearning.com/)
-- [DL course by François Fleuret, EPFL and Uni. of Geneva](https://fleuret.org/dlc/)
-- [PyTorch](https://pytorch.org/)
+- [Linear Algebra and Applications by prof. Gilbert Strang](https://rksmvv.ac.in/wp-content/uploads/2021/04/Gilbert_Strang_Linear_Algebra_and_Its_Applicatio_230928_225121.pdf)
+- [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/LADR4e.pdf)
+
 
