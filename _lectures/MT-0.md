@@ -1,0 +1,30 @@
+---
+type: lecture
+date: 2026-07-27
+title: (MT-00) Introduction and logistics
+
+# optional
+# please use /static_files/notes directory to store notes
+# thumbnail: /static_files/path/to/image.jpg
+
+# optional
+tldr: "Logistics of this course (Description, Objectives, Contents, Evaluation, TAs, etc)"
+  
+# optional
+# set it to true if you don't want this lecture to appear in the updates section
+hide_from_announcments: true
+
+# optional
+links: 
+    #- url: /static_files/presentations/lec.zip
+    #  name: notes
+    #- url: /static_files/presentations/code.zip
+    #  name: codes
+    - url: /static_files/presentations/MT-00.pdf
+      name: slides
+    #- url: /static_files/presentations/lec.zip
+    #  name: other
+---
+
+**Suggested Readings:**
+- [McCulloch-Pitts Neuron, 1943](https://www.cs.cmu.edu/~./epxing/Class/10715/reading/McCulloch.and.Pitts.pdf)
