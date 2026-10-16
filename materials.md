@@ -12,6 +12,7 @@ permalink: /materials/
 - [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/LADR4e.pdf)
 - [An approximate Schedule of the semister-long course](https://docs.google.com/spreadsheets/d/e/2PACX-1vQnz6C6qQkDXtCqD-glEJxF5dVMNeCyWaCd7qvmY_21NaDYiCsVkkoaQjzc-zfmxEHDZmrim17o4dAp/pubhtml?gid=0&single=true)
 - [Problem set on Determinants](static_files/others/determinants-practice-set.pdf)
+- [Challenging Problem set on Determinants](static_files/others/challenging-problems-on-determinants.pdf)
 
 
 
