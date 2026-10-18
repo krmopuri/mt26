@@ -13,7 +13,7 @@ permalink: /materials/
 - [An approximate Schedule of the semister-long course](https://docs.google.com/spreadsheets/d/e/2PACX-1vQnz6C6qQkDXtCqD-glEJxF5dVMNeCyWaCd7qvmY_21NaDYiCsVkkoaQjzc-zfmxEHDZmrim17o4dAp/pubhtml?gid=0&single=true)
 - [Problem set on Determinants](static_files/others/determinants-practice-set.pdf)
 - [Challenging Problem set on Determinants](static_files/others/challenging-problems-on-determinants.pdf)
-- [Problem set on Determinants](static_files/others/MT_PQ.pdf)
+- [Practice problems till Determinants](static_files/others/MT_PQ.pdf)
 
 
 
