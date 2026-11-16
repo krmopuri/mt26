@@ -14,6 +14,7 @@ permalink: /materials/
 - [Problem set on Determinants](static_files/others/determinants-practice-set.pdf)
 - [Challenging Problem set on Determinants](static_files/others/challenging-problems-on-determinants.pdf)
 - [Practice problems till Least Squares](static_files/others/MT_PQ.pdf)
+- [Practice Problems on SVD and PCA](static_files/others/SVD-PCA-Practice-Problems.pdf)
 
 
 
